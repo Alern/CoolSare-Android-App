@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">CoolSare</string>
+    <string name="coolText">Welcome</string>
+    <string name="explanationText">CoolSare is your online one stop shop that offers you all the solutions for
+        your uniform needs and custom design of uniforms. Shop, enjoy, rate our service and come back again!!! :-) </string>
+    <string name="proceedButton">LET\'S SHOP!!</string>
+    <string name="catText">CHOOSE CATEGORY</string>
+    <string name="schUni">SCHOOL</string>
+    <string name="cabinUni">CABIN</string>
+    <string name="offUni">OFFICE</string>
+    <string name="lawUni">SECURITY</string>
+    <string name="patientUni">HEALTH</string>
+    <string name="transUni">KENHA</string>
+    <string name="proButton">PROCEED</string>
+    <string name="payText">INPUT LOCATION</string>
+    <string name="codButton">C.O.D</string>
+    <string name="mpButton">Mpesa</string>
+    <string name="payButton">PayPal</string>
+    <string name="cheOutButton">CHECK OUT</string>
+    <string name="title_activity_navigate">Navigate</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_location">Map</string>
+    <string name="backButt">BACK</string>
+    <string name="backButtt">BACK</string>
+    <string name="resText">Enter Location</string>
+    <string name="entText">Location</string>
+    <string name="locText">Choose Payment Plan</string>
+    <string name="cooText">Your online one stop shop for uniform solutions. We are glad you are here... :-)</string>
+</resources>
